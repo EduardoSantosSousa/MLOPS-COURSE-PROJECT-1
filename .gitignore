@@ -1,4 +1,5 @@
 hotel_prediction_env/
 mlruns/
 logs/
-MLOPS_PROJECT_ONE.egg-info
+MLOPS_PROJECT_ONE.egg-info/
+jenkis.md
