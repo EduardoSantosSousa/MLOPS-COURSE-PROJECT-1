@@ -27,4 +27,4 @@
   EXPOSE 8080
 
   # Command to run the app
-  CMD ["python", "application.py"]
+  CMD ["python", "aplication.py"]
