@@ -113,6 +113,6 @@ Estrutura do Repositório no GitHub:
 
 **Eduardo Santos Sousa**
 
-[LinkedIn](https://www.linkedin.com/in/eduardosantossousa/) | [GitHub](https://github.com/eduardosantossousa)
+[[LinkedIn](https://www.linkedin.com/in/eduardosantossousa/)](https://www.linkedin.com/in/eduardo-s-sousa/) | [GitHub](https://github.com/eduardosantossousa)
 
 ---
